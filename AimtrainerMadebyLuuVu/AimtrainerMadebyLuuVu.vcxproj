@@ -111,7 +111,7 @@
       <AdditionalIncludeDirectories>C:\UET24020368\SDL2_2\SDL2_ttf-devel-2.24.0-VC\SDL2_ttf-2.24.0\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
-      <SubSystem>Console</SubSystem>
+      <SubSystem>Windows</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <AdditionalDependencies>SDL2.lib;SDL2main.lib;SDL2_image.lib;SDL2_ttf.lib;%(AdditionalDependencies)</AdditionalDependencies>
       <AdditionalLibraryDirectories>C:\UET24020368\SDLonly\SDL2-devel-2.24.0-VC\SDL2-2.24.0\lib;C:\UET24020368\SDLonly\SDL2_image-devel-2.6.0-VC\SDL2_image-2.6.0\lib\x64;C:\UET24020368\SDL2_2\SDL2_ttf-devel-2.24.0-VC\SDL2_ttf-2.24.0\lib\x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
